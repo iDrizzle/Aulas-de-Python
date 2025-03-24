@@ -1,0 +1,1 @@
+Utilizar vscode + py
