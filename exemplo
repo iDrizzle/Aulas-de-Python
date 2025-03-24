@@ -1,0 +1,6 @@
+
+frutas = ["Maçã", "Banana", "Uva"]
+print(frutas[1])  # Mostra a segunda fruta
+
+Alunos = ["Erik", "Michon", "dk"]
+print(Alunos[2])
