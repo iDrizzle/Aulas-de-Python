@@ -32,7 +32,7 @@ Bem-vindo ao meu repositório de **aulas e projetos em Python**! 🚀 Aqui, voc�
    ```sh
    pip install -r requirements.txt
    ```
-4. **Execute os scripts:**
+4. **Execute os scripts:**..
    ```sh
    python script.py
    ```
